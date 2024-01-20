@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Exclude specific Java file
+/src/main/java/com/amigoscode/awsimageupload/comfig/AmazonConfig.java
