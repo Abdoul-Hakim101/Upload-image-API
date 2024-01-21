@@ -68,7 +68,5 @@ The frontend is built with React and uses Axios for HTTP requests. The `App.js` 
 
 The backend, built with Spring Boot, handles image upload, storage, and retrieval from Amazon S3. The `UserProfileController` manages user profiles, and the `FileStore` class is responsible for interacting with Amazon S3.
 ## Screenshots
+![Frontend Screenshot](Screenshot 2024-01-21 183138.png)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
